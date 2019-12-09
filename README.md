@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/devborz/lab_03_shared_ptr.svg?token=rrbTiACLSyD7Yjcuyygg&branch=master)](https://travis-ci.com/devborz/lab_03_shared_ptr)
 # Лабораторная работа №3
 
 ### Задание
